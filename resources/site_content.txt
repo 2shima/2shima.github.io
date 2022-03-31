@@ -1,0 +1,54 @@
+===HELLO, WORLD!===
+
+Jason Swann is an up and coming software developer with a diverse skillset, seeking to become a Renaissance man of the IT industry and eager to take on any challenges that come his way.
+
+He is a very fast learner and is familiar with a variety of languages, tools, and techniques:
+* Coding in C++, Python, and JavaScript
+* Working with SQL and relational databases
+* Version control through Git and Github
+* QA and supporting tools like Atlassian Jira
+* Fluency in spoken and written Japanese, intermediate Spanish
+
+Some of his soft skills include:
+* High attention to detail
+* Strong communication
+* Critical thinking and problem solving
+* Ability to find answers through documentation, SMEs, and trial and error
+
+
+===WORK EXPERIENCE===
+Jason's skills are supported by work experience in a range of fields:
+
+ASSOCIATE SDET
+* PENDING
+
+QA FUNCTIONAL I
+* Manual debugging and issue documentation
+* Development in an Agile environment
+* Leadership functions
+
+
+===PROJECTS===
+Jason has been involved in a number of projects, both personal and professional:
+* Call of Duty: Vanguard
+* https://github.com/2shima
+* PENDING
+
+
+===CONTACT ME===
+Do you have an open position you'd like filled? Contact Jason directly:
+jasontswann@gmail.com
+512-578-9586
+https://www.linkedin.com/in/jason-swann/
+
+OR 
+
+Submit a contact form and Jason will reach out to you as soon as he can:
+<CONTACT FORM>
+
+
+
+<<<FONT FAMILIES>>>
+Roboto, Arial, sans-serif
+Oswald, Helvetica, sans-serif
+Noto JP, sans-serif
